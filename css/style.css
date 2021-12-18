@@ -1,0 +1,312 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	line-height: 1.4em;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+
+/*hedar section start*/
+.header {
+	width: 100%;
+	background: url("../images/banner.png") center top no-repeat;
+	background-size: cover;
+	height: 100vh;
+	
+}
+.header .bg-light {
+	background: transparent ! important;
+}
+.navbar-light .navbar-nav .nav-link.active,{
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #776c64;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0px 0px 0px 15px;
+}
+.inner-banner{
+	width: 100%;
+	padding: 80px 0px 0px 0px;
+}
+.inner-banner .title{
+	font-size: 70px;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #deb37e;
+}
+.inner-banner .text i{
+	font-size: 22px;
+	font-weight: 500;
+
+}
+.inner-btnp{
+	width: 100%;
+	padding: 35px 0px;
+}
+.inner-btnp .btn-light{
+	padding: 4px 25px;
+	font-size: 18px;
+	font-weight: 800;
+	border-radius: 30px;
+	color: #776c64;
+}
+.inner-btnp p{
+	padding: 15px 0px;
+}
+.inner-btnp p i{
+	font-size: 14px;
+	font-weight: 400;
+	color: #776c64;
+}
+
+/*let start*/
+.let{
+	width: 100%;
+	padding: 80px 0px;
+}
+.let .inner-let{
+	text-align: center;
+}
+.let .inner-let .title{
+	font-size: 50px;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #e2a355;
+}
+.let .inner-let .text{
+	font-size: 14px;
+	font-weight: 400;
+	color: #776c64;
+}
+.let .let2{
+	width: 100%;
+	padding: 40px 2px;
+	
+}
+.let .let2 img{
+	width: 100%;
+	height: 250px;
+}
+
+.let2 .card-body{
+	padding: 40px 15px;
+	background: #7f7770;
+}
+.let2 .card-body .card-title{
+	font-size: 25px;
+	font-weight: 500;
+	color: #fff;
+}
+.let2 .card-body .card-text{
+	font-size: 15px;
+	font-weight: 400;
+	color: #fff;
+	line-height: 1.3em;
+}
+.let .btn .btn-secondary {
+    padding: 7px 20px;
+    border-radius: 30px;
+}
+
+/*discount start*/
+.discount{
+	width: 100%;
+	padding: 80px 0px;
+	position: relative;
+}
+.discount .inner-discount{
+	width: 100%;
+	position: relative;
+
+}
+.discount .inner-discount img{
+	width: 80%;
+}
+.discount .inner-discount2{
+	width: 100%;
+	margin: 45px 20px 0px 0px;	
+}
+.discount .inner-discount2 .card-title{
+	font-size: 45px;
+    font-weight: 700;
+    line-height: 1.3em;
+    color: #000;
+    
+}
+.discount .inner-discount2 .card-text{
+	width: 77%;
+	font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4em;
+    color: #000;
+}
+.discount .inner-discount2 .btn-warning{
+	border: 0px;
+    background: #e2a355;
+    padding: 5px 25px;
+    font-size: 16px;
+    font-weight: 600;
+}
+/*hiking sart*/
+.hiking{
+	width: 100%;
+	background: url("../images/bg3.png") center top no-repeat;
+	background-size: cover;
+	padding: 80px 0px;
+	height: 100vh;
+}
+.hiking .inner-hiking{
+	width: 100%;
+	margin: 237px 0px 0px 0px;
+	text-align: center;
+}
+.hiking .inner-hiking h4{
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.3em;
+	color: #fff;
+}
+.hiking .inner-hiking p{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.3em;
+	color: #fff;
+	margin: 10px 0px 0px 0px;
+}
+/*explore start*/
+.explore{
+	width: 100%;
+	background: url("../images/c.png") center top no-repeat;
+	background-size: cover;
+	padding: 80px 0px;
+	height: 100vh;
+}
+.explore .inner-explore {
+	text-align: right;
+}
+.explore .inner-explore h3{
+	font-size: 80px;
+	font-weight: 800;
+	margin: 190px 0px 0px 0px;
+	color: #54524f;
+}
+.explore .inner-explore h3 span{
+	color: #deb37e;
+}
+
+/*deitels start*/
+.deitels{
+	width: 100%;
+	padding: 80px 0px;
+}
+.deitels .inner-deitels{
+	text-align: center;
+}
+.deitels .inner-deitels h4{
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 1.3em;
+	color: #deb37e;
+}
+.deitels .inner-deitels p{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.3em;
+	color: #54524f;
+	margin: 20px 0px 0px 0px;
+}
+
+/*paragarp start*/
+.paragarp{
+	width: 100%;
+	padding: 80px 0px;
+}
+.paragarp .inner-paragarp{
+	text-align: center;
+}
+.paragarp .inner-paragarp p{
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 1.3em;
+	margin: 25px 0px 0px 0px;
+}
+
+/*title start*/
+.heare{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/bg6.png") center top no-repeat;
+	background-size: cover;
+	height: 80vh;
+}
+.heare .inner-title{
+	text-align: center;
+	margin: 130px 0px 0px 0px;
+}
+.heare .inner-title h4{
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 1.4em;
+	color: #fff;
+}
+.heare .inner-title p{
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 1.3em;
+	margin: 25px 0px 0px 0px;
+}
+
+/*footer start*/
+.footer{
+	width: 100%;
+	background: url("../images/bg9.png") center top no-repeat;
+	background-size: cover;
+	padding: 80px 0px;
+}
+.footer .inner-footer h4{
+	font-size: 30px;
+	font-weight: 600;
+	color: #fff;
+	line-height: 1.3em;
+}
+.footer .inner-footer p{
+	font-size: 14px;
+	font-weight: 400;
+	color: #fff;
+	line-height: 1.4em;
+}
+.footer .inner-footer .icon img {
+	margin: 0px 0px 0px 10px;
+}
+.footer .inner-footer1 h4{
+	font-size: 30px;
+	font-weight: 600;
+	color: #fff;
+	line-height: 1.3em;
+}
+.footer .inner-footer1 p{
+	font-size: 14px;
+	font-weight: 400;
+	color: #fff;
+}
+
+.animated-number{
+	width: 100%;
+	padding: 80px 0px;
+}
+.animated-number .demo{
+	font-size: 111px;
+}
