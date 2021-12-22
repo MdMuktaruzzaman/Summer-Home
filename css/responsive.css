@@ -81,7 +81,7 @@
 		font-size: 36px;
 	}
 	.discount .inner-discount img{
-		margin: 27px 0px 0px 0px;
+		margin: 27px 0px 0px 35px;
 	}
 	.hiking .inner-hiking{
 		margin: 188px 0px 0px 0px;
@@ -147,9 +147,7 @@
 /*most of the ipad, tablet, notebook css*/
 @media (min-width: 768px) and ( max-width: 1024px){
 /*css start*/
-	.let{
-		padding: 30px 231px;
-	}
+	
 	.discount .inner-discount img{
 		padding: 30px 0px;
 	}
